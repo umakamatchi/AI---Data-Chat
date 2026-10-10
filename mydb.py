@@ -39,7 +39,7 @@ def get_schema(table_name):
 
 
 #result = execute_query("SELECT * FROM orders")
-result=get_schema('orders')
+result=get_schema('superstore')
 
 print("6. Result:")
 print(result)
