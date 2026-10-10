@@ -1,4 +1,6 @@
 # Text to SQL Chatbot
+<img width="1657" height="1022" alt="image" src="https://github.com/user-attachments/assets/9f74ca20-4a3f-480c-ae17-5cfc1e5bbc77" />
+
 An AI-powered Text-to-SQL chatbot that allows users to ask questions about an orders PostgreSQL database using natural language.
 
 The application uses Google Gemini to convert plain-English questions into SQL queries, executes the generated queries against PostgreSQL, and displays the results through an interactive Streamlit chat interface.
