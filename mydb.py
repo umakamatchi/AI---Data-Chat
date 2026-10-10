@@ -7,7 +7,7 @@ print("1. Starting program...")
 
 
 engine = create_engine(
-    "postgresql+psycopg://postgres:kavin@localhost:5432/postgres"
+    "postgresql+psycopg://postgres@localhost:5432/postgres"
 )
 
 print("2. Engine created...")
